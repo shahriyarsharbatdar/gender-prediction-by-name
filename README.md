@@ -1,4 +1,3 @@
-# gender-prediction-by-name
 # Project Title: Name Analysis
 
 ## Overview:
